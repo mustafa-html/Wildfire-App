@@ -1,0 +1,9 @@
+[project]
+name = "respira-canada-backend"
+version = "2.0.0"
+description = "FastAPI backend for Respira Canada (CWFIS fire danger, AQHI, smoke plumes)"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

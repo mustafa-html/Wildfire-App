@@ -1,0 +1,35 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.81,
+     51.41
+    ]
+   },
+   "properties": {
+    "rep_date": "2026-09-26 20:10:00",
+    "frp": 120.5,
+    "sensor": "VIIRS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     55.21,
+     -116.02
+    ]
+   },
+   "properties": {
+    "rep_date": "2026-09-26 19:40:00",
+    "frp": 14.0,
+    "sensor": "MODIS"
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "af.1",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.8,
+     51.4
+    ]
+   },
+   "properties": {
+    "agency": "ab",
+    "firename": "CWF045",
+    "lat": 51.4,
+    "lon": -114.8,
+    "startdate": "2026-09-20",
+    "hectares": 850.0,
+    "stage_of_control": "OC"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "af.2",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0,
+     55.2
+    ]
+   },
+   "properties": {
+    "agency": "ab",
+    "firename": "SWF101",
+    "lat": 55.2,
+    "lon": -116.0,
+    "startdate": "2026-09-10",
+    "hectares": 12.5,
+    "stage_of_control": "BH"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "af.3",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.9,
+     51.2
+    ]
+   },
+   "properties": {
+    "agency": "ab",
+    "firename": "CWF030",
+    "lat": 51.2,
+    "lon": -113.9,
+    "startdate": "2026-09-01",
+    "hectares": 3.0,
+    "stage_of_control": "EX"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "af.4",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.0,
+     50.5
+    ]
+   },
+   "properties": {
+    "agency": "bc",
+    "firename": "K20001",
+    "lat": 50.5,
+    "lon": -121.0,
+    "startdate": "2026-09-15",
+    "hectares": 400.0,
+    "stage_of_control": "UC"
+   }
+  }
+ ]
+}

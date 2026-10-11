@@ -1,0 +1,9 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30
+pydantic>=2.8,<3
+requests>=2.32
+cachetools>=5.3
+python-dotenv>=1.0
+shapely>=2.0.4
+pyproj>=3.6.1
+google-genai>=1.0

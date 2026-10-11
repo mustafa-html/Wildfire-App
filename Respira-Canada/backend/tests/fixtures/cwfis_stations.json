@@ -1,0 +1,130 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": "firewx_stns_current.1",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.02,
+     51.11
+    ]
+   },
+   "properties": {
+    "name": "CALGARY+INTL",
+    "wmo": 71877,
+    "aes": "A71877",
+    "lat": 51.11,
+    "lon": -114.02,
+    "rep_date": "2026-09-25 12:00:00",
+    "temp": 24.1,
+    "rh": 22,
+    "ws": 18,
+    "wdir": 250,
+    "precip": 0.0,
+    "ffmc": 91.2,
+    "dmc": 48.0,
+    "dc": 512.0,
+    "isi": 10.4,
+    "bui": 76.3,
+    "fwi": 24.6,
+    "dsr": 7.8,
+    "calcstatus": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "firewx_stns_current.2",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.52,
+     53.57
+    ]
+   },
+   "properties": {
+    "name": "EDMONTON  BLATCHFORD",
+    "wmo": 71879,
+    "aes": "A71879",
+    "lat": 53.57,
+    "lon": -113.52,
+    "rep_date": "2026-09-25 12:00:00",
+    "temp": 19.0,
+    "rh": 35,
+    "ws": 12,
+    "wdir": 300,
+    "precip": 0.2,
+    "ffmc": 88.0,
+    "dmc": 30.0,
+    "dc": 400.0,
+    "isi": null,
+    "bui": null,
+    "fwi": null,
+    "calcstatus": 1
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "firewx_stns_current.3",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.12,
+     58.77
+    ]
+   },
+   "properties": {
+    "name": "FORT CHIPEWYAN",
+    "wmo": 71931,
+    "aes": "A71931",
+    "lat": 58.77,
+    "lon": -111.12,
+    "rep_date": "2026-09-25 12:00:00",
+    "temp": 3.0,
+    "rh": 80,
+    "ws": 8,
+    "wdir": 10,
+    "precip": 1.0,
+    "ffmc": null,
+    "dmc": null,
+    "dc": null,
+    "isi": null,
+    "bui": null,
+    "fwi": null,
+    "calcstatus": -3
+   }
+  },
+  {
+   "type": "Feature",
+   "id": "firewx_stns_current.4",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.44,
+     50.7
+    ]
+   },
+   "properties": {
+    "name": "KAMLOOPS",
+    "wmo": 71887,
+    "aes": "A71887",
+    "lat": 50.7,
+    "lon": -120.44,
+    "rep_date": "2026-09-25 12:00:00",
+    "temp": 26.0,
+    "rh": 18,
+    "ws": 20,
+    "wdir": 200,
+    "precip": 0.0,
+    "ffmc": 93.0,
+    "dmc": 80.0,
+    "dc": 700.0,
+    "isi": 14.0,
+    "bui": 110.0,
+    "fwi": 35.0,
+    "calcstatus": 1
+   }
+  }
+ ]
+}

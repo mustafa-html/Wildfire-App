@@ -1,0 +1,53 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.07,
+     51.05
+    ]
+   },
+   "properties": {
+    "location_id": "FALIF",
+    "location_name_en": "Calgary",
+    "aqhi": 7.2,
+    "observation_datetime": "2026-09-26T22:55:52Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.07,
+     51.05
+    ]
+   },
+   "properties": {
+    "location_id": "FALIF",
+    "location_name_en": "Calgary",
+    "aqhi": 5.0,
+    "observation_datetime": "2026-09-26T20:55:52Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.49,
+     53.55
+    ]
+   },
+   "properties": {
+    "location_id": "FAEDM",
+    "location_name_en": "Edmonton",
+    "aqhi": 3.1,
+    "observation_datetime": "2026-09-26T22:55:52Z"
+   }
+  }
+ ]
+}
